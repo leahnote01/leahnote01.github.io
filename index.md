@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Resume and Other Docs
 
-- [Project 1 Title](http://example.com/)
+- [Resume](/pdf/Resume_Wonha Shin_122323.pdf)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Wonha Shin / Data Science Master @ University Rochester <a href="leahnote01.github.io">leahnote01</a></p>
 <!-- Remove above link if you don't want to attibute -->
