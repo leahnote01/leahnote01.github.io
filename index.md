@@ -12,8 +12,8 @@
 <img src="images/QOL.JPG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Multidimensional Analysis of Video Game Sales and Global Market Trends](/pdf/Stats_Project_Final.pdf)
+<img src="images/stat.JPG?raw=true"/>
 
 ---
 
