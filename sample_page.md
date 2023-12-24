@@ -1,6 +1,6 @@
 ## Cross-Cultural NLP Analysis of Luxury Hotel Reviews in Europe- LDA Topic Modeling 
 
-
+---
 **Project description:** 
 -   Actively led a comprehensive NLP analysis project examining over 515,000 luxury hotel reviews to interpret complex customer latent patterns across diverse global region, utilizing Python and advanced Scikit-learn ML models (Gensim, LDA, clustering, NMF) expecting significant detailed analysis extracted insights.
 -   Orchestrated advanced data preprocessing and optimization techniques, along with thorough comparative analyses using R and Tableau expect to contribute to the company’s market positioning critical strategic decisions.
@@ -77,3 +77,7 @@ Overall Trends: Negative reviews commonly focus on noise and comfort, meals, and
 
 #### Sub-Regional Differences:
 Differences in priorities exist within subregions. For example, Eastern Asians value customer service highly, differing from the broader Asian focus on meals. This is attributed to the region's reputation for excellent service, where failure to meet these expectations can result in negative reviews.
+
+---
+### Report Download
+pdf file download (/pdf/Resume_Wonha Shin_122323.pdf)
