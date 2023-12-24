@@ -4,7 +4,7 @@
 
 ### Data Science Project
 
-[Cross-Cultural NLP Analysis of Luxury Hotel Reviews in Europe- LDA Topic Modeling](/sample_page)
+[Cross-Cultural NLP Analysis of Luxury Hotel Reviews in Europe- LDA Topic Modeling](/nlp_hotel_review)
 <img src="images/HRA.JPG?raw=true"/>
 
 ---
