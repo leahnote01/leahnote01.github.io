@@ -8,8 +8,8 @@
 <img src="images/HRA.JPG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Quality of Life Analysis : Tri-State Visualization](/pdf/Quality_of_Life_Analysis.pdf)
+<img src="images/QOL.JPG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
