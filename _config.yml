@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Wonha Shin # your name (or website title) here
+logo: "/images/profile.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Science Master Student @ Univ. of Rochester 
   <br><br>
-  Second description 
+  Fueled by a deep-rooted passion for data and its power to transform lives, dedicated to the Data Science excellence. My particular interest lies in the realm of Natural Language Processing (NLP) ML & AI, a field I believe has untapped potential to unlock complex information and  enhance our understanding of the world.  <br><br>
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/wshin7/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
