@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Wonha Shin / Data Science Master @ University Rochester <a href="leahnote01.github.io">leahnote01</a></p>
+<p style="font-size:11px">Wonha Shin / Data Science Master @ University Rochester <a href="mailto:wshin7@ur.rochester.edu">leahnote01</a></p>
 <!-- Remove above link if you don't want to attibute -->
