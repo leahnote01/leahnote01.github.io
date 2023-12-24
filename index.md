@@ -30,7 +30,7 @@
 
 ### Email Me
 
-<p style="font-size:14px"> Wonha Shin / wshin7@ur.rochester.edu <a href="mailto:wshin7@ur.rochester.edu">Email</a></p>
+<p style="font-size:16px"> wshin7@ur.rochester.edu <a href="mailto:wshin7@ur.rochester.edu">Email</a></p>
 <!-- Remove above link if you don't want to attibute -->
 
 ---
