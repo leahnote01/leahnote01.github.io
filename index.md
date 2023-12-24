@@ -2,14 +2,6 @@
 
 ---
 
-
-### Email Me
-
-<p style="font-size:14px"> Wonha Shin / wshin7@ur.rochester.edu <a href="mailto:wshin7@ur.rochester.edu">Email</a></p>
-<!-- Remove above link if you don't want to attibute -->
-
----
-
 ### Data Science Project
 
 [Cross-Cultural NLP Analysis of Luxury Hotel Reviews in Europe- LDA Topic Modeling](/sample_page)
@@ -32,6 +24,14 @@
 <!-- - [Project 3 Title](http://example.com/) -->
 <!-- - [Project 4 Title](http://example.com/) -->
 <!-- - [Project 5 Title](http://example.com/) -->
+
+---
+
+
+### Email Me
+
+<p style="font-size:14px"> Wonha Shin / wshin7@ur.rochester.edu <a href="mailto:wshin7@ur.rochester.edu">Email</a></p>
+<!-- Remove above link if you don't want to attibute -->
 
 ---
 
