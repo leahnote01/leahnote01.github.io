@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Data Science Project
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Cross-Cultural NLP Analysis of Luxury Hotel Reviews in Europe- LDA Topic Modeling](/sample_page)
+<img src="images/HRA.JPG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
