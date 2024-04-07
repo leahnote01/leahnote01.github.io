@@ -19,7 +19,7 @@
 
 ### Resume and Other Docs
 
-- [Resume](/pdf/Resume_Wonha Shin_012424.pdf)
+- [Resume](pdf/LLM Resume_Wonha Shin_040324.docx.pdf)
 <!-- - [Project 2 Title](http://example.com/) -->
 <!-- - [Project 3 Title](http://example.com/) -->
 <!-- - [Project 4 Title](http://example.com/) -->
