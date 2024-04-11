@@ -8,8 +8,8 @@
 <img src="images/HRA.JPG?raw=true"/>
 
 ---
-[Quality of Life Analysis : Tri-State Visualization (Report PDF)](/pdf/Quality_of_Life_Analysis.pdf)
-<img src="images/QOL.JPG?raw=true"/>
+[COVID-19 Awareness & Prediction Analysis thru ML & DL (Report PDF)](pdf/COVID-19_Ohio_Lab_Report.pdf)
+<img src="images/OHIO.JPG?raw=true"/>
 
 ---
 [Quality of Life Analysis : Tri-State Visualization (Report PDF)](/pdf/Quality_of_Life_Analysis.pdf)
