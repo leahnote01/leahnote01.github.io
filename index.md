@@ -10,12 +10,6 @@
 <br>
 
 ---
-#### [COVID-19 Awareness & Prediction Analysis thru ML & DL ](/covid19_ohio_awareness.md)
-<img src="images/OHIO.JPG?raw=true"/>
-
-<br>
-
----
 [Quality of Life Analysis : Tri-State Visualization (Report PDF)](/pdf/Quality_of_Life_Analysis.pdf)
 <img src="images/QOL.JPG?raw=true"/>
 
@@ -24,6 +18,13 @@
 ---
 [Multidimensional Analysis of Video Game Sales and Global Market Trends (Report PDF)](/pdf/Stats_Project_Final.pdf)
 <img src="images/stat.JPG?raw=true"/>
+
+<br>
+
+---
+
+#### [COVID-19 Awareness & Prediction Analysis thru ML & DL ](/covid19_ohio_awareness.md)
+<img src="images/OHIO.JPG?raw=true"/>
 
 <br>
 
