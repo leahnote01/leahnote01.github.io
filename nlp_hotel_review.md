@@ -6,7 +6,6 @@
 -   Orchestrated advanced data preprocessing and optimization techniques, along with thorough comparative analyses using R and Tableau expect to contribute to the company’s market positioning critical strategic decisions.
 
 <br>
-<br>
 
 ### Overview
 
