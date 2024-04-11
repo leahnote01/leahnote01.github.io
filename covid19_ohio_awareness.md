@@ -32,11 +32,10 @@ The analysis described in the report centers around the exploration and modeling
 <br>
 
 ### 3. Random Forest 
-#### Hyperparameter tuning:
-
-- A loop iterates over a range of values for `n_estimators` in the Random Forest Classifier to find the best performing model based on accuracy and R-squared metrics.
-- The tuning process involves training the model with different numbers of trees `n_estimators` and observing the impact on performance metrics.
-- Results are visualized using matplotlib plots, showing how different values of `n_estimators` affect the model's accuracy and R-squared score, helping to identify the optimal model configuration.
+- Hyperparameter tuning:
+  - A loop iterates over a range of values for `n_estimators` in the Random Forest Classifier to find the best performing model based on accuracy and R-squared metrics.
+  - The tuning process involves training the model with different numbers of trees `n_estimators` and observing the impact on performance metrics.
+  - Results are visualized using matplotlib plots, showing how different values of `n_estimators` affect the model's accuracy and R-squared score, helping to identify the optimal model configuration.
 
 <br>
 
