@@ -1,11 +1,12 @@
 ## Socio-Awareness Modeling and Predictive Analysis of COVID-19 Spread in Ohio Counties
 
 ---
+<img src="images/OHIO.JPG?raw=true"/>
 
 
 **Project description:** 
 -   Spearheaded an analytical project to assess the impact of socioeconomic factors and public awareness on the COVID-19 pandemic across Ohio counties.
--   Utilized advanced machine learning techniques, employing a Random Forest model to analyze over 140 variables, achieving an R² score of 0.95 and 89% prediction accuracy.
+-   Utilized advanced machine learning techniques, employing a Random Forest model to analyze over 140 variables, achieving **an R² score of 0.95 and 89% prediction accuracy**.
 -   Conducted a multifaceted analysis incorporating health, societal, and economic data to explore the nuanced interplay between community behavior and pandemic trends.
 <br>
 <br>
@@ -28,6 +29,7 @@ The analysis described in the report centers around the exploration and modeling
 - Random Forest
   - tuning with multiple hyperparameters
 
+<br>
 
 ### 3. Random Forest 
 #### Hyperparameter tuning:
@@ -40,13 +42,13 @@ The analysis described in the report centers around the exploration and modeling
 
 ### 4. The Analysis of Results:
 
-- Total reviews showed slight regional differences in priorities.
-- Negative reviews were **significantly impacted by regions** 
-- Positive reviews emphasized cleanliness and customer service.
-- Cultural and regional differences influenced the emphasis on certain topics.
+- The analysis using a Random Forest model demonstrated high effectiveness, with an R² score of 0.955 and 89% accuracy, indicating reliable predictive capability for COVID-19 case distribution across Ohio counties.
+- The study found that non-health topics like sports and entertainment dominated public interest, overshadowing health-related information during the pandemic.
+- Geographical analysis highlighted variations in COVID-19 impact, with certain counties facing higher cases or deaths per capita.
+- Temporal trends in topic awareness were dynamic, fluctuating with external events. Although the model was robust, future improvements could include integrating additional relevant features to enhance accuracy and insight depth.
 
 
 ---
 ### Report Download
 
-Full report is available here <a href="pdf/Hotel_Review_Analysis_Wonha Shin.pdf">Report Viewer</a>
+Full report is available here <a href="pdf/COVID-19_Ohio_Lab_Report.pdf">Report Viewer</a>
