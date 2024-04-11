@@ -12,6 +12,10 @@
 <img src="images/QOL.JPG?raw=true"/>
 
 ---
+[Quality of Life Analysis : Tri-State Visualization (Report PDF)](/pdf/Quality_of_Life_Analysis.pdf)
+<img src="images/QOL.JPG?raw=true"/>
+
+---
 [Multidimensional Analysis of Video Game Sales and Global Market Trends (Report PDF)](/pdf/Stats_Project_Final.pdf)
 <img src="images/stat.JPG?raw=true"/>
 
