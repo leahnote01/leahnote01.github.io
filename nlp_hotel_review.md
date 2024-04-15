@@ -58,7 +58,7 @@ Aimed to achieve a high coherence level, indicating meaningful and consistent to
 <img src="images/HRA.JPG?raw=true"/>
 Full slides is available here <a href="pdf/Hotel_Review_Analysis_Slides.pptx.pdf"> PDF Viewer</a>
 
-<br><br>
+<br>
 
 
 ### 5. Findings:
