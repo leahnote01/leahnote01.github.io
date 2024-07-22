@@ -30,6 +30,13 @@
 
 ---
 
+### My Github Blog
+
+<p style="font-size:16px"> 🚀 Check out my recent posting and writings! <a href="https://leahnote01.github.io/blog/">Visit to My Vlog! </a></p>
+<!-- Remove above link if you don't want to attibute -->
+
+
+---
 ### Resume and Other Docs
 
 - [🙌 The Most Updated Resume Here 🌟](https://docs.google.com/document/d/e/2PACX-1vT7RdK4mlZRGktgW8LMu1WCJTuAfDGetiU-n1Y2yvRMI1q5HYF-ZcY4sSRgfxPjng/pub)
@@ -44,13 +51,6 @@
 ### Email Me
 
 <p style="font-size:16px"> Wonha Shin / wshin7@ur.rochester.edu <a href="mailto:wshin7@ur.rochester.edu">Email</a></p>
-<!-- Remove above link if you don't want to attibute -->
-
----
-
-<!--### Email Me -->
-
-<!--<p style="font-size:12px">Wonha Shin / Data Science Master @ University Rochester <a href="mailto:wshin7@ur.rochester.edu">Email</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
 
 ---
