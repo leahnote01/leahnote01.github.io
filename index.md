@@ -39,7 +39,7 @@
 ---
 ### Resume and Other Docs
 
-- [🙌 The Most Updated Resume Here 🌟](https://docs.google.com/document/d/e/2PACX-1vT7RdK4mlZRGktgW8LMu1WCJTuAfDGetiU-n1Y2yvRMI1q5HYF-ZcY4sSRgfxPjng/pub)
+[🙌 The Most Updated Resume Here 🌟](https://docs.google.com/document/d/e/2PACX-1vT7RdK4mlZRGktgW8LMu1WCJTuAfDGetiU-n1Y2yvRMI1q5HYF-ZcY4sSRgfxPjng/pub)
 <!-- - [Project 2 Title](http://example.com/) -->
 <!-- - [Project 3 Title](http://example.com/) -->
 <!-- - [Project 4 Title](http://example.com/) -->
