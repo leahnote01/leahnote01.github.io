@@ -32,7 +32,7 @@
 
 ### My Github Blog
 
-<p style="font-size:16px"> 🚀 Check out my recent posting and writings! <a href="https://leahnote01.github.io/blog/">Visit to My Vlog! </a></p>
+<p style="font-size:16px"> 🚀 Check out my recent posting and writings! <a href="https://leahnote01.github.io/blog/">Visit to My Blog! </a></p>
 <!-- Remove above link if you don't want to attibute -->
 
 
