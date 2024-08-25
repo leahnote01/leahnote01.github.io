@@ -1,12 +1,11 @@
 title: Wonha (Leah) Shin # your name (or website title) here
 logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Science Master Student @ Univ. of Rochester 
-  <br><br>
+  Data Science Master Candidate @ Univ. of Rochester 
+  <br>
   Fueled by a deep-rooted passion for data and its power to transform lives, dedicated to Data Science excellence. 
   My particular interest lies in the realm of Natural Language Processing (NLP) ML & AI, 
   with untapped potential to enhance our understanding of the world.  <br><br>
-  <br><br>
   <a href="https://www.linkedin.com/in/wshin7/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
