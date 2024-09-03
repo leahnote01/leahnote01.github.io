@@ -38,8 +38,8 @@
 
 ---
 ### Resume and Other Docs
+[Most Updated Resume Here](/pdf/ML Resume_Wonha Shin_052224.docx.pdf)
 
-<p style="font-size:16px"> <a href="https://docs.google.com/document/d/e/2PACX-1vT7RdK4mlZRGktgW8LMu1WCJTuAfDGetiU-n1Y2yvRMI1q5HYF-ZcY4sSRgfxPjng/pub"> 🙌 The Most Updated Resume Here 🌟</a></p>
 
 <!-- - [Project 2 Title](http://example.com/) -->
 <!-- - [Project 3 Title](http://example.com/) -->
