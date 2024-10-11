@@ -38,7 +38,7 @@
 
 ---
 ### Resume and Other Docs
-<p style="font-size:16px">[🙌Most Updated Resume Here](/pdf/ML Resume_Wonha Shin_052224.pdf)</p>
+<p style="font-size:16px">[🙌Most Updated Resume Here](/pdf/ML_Resume_Wonha_Shin_052224.pdf)</p>
 
 
 <!-- - [Project 2 Title](http://example.com/) -->
