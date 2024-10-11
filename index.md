@@ -1,6 +1,14 @@
 ## Portfolio
 
 ---
+### My Github Blog
+
+<I>Starting May 1st, 2024, I’ve committed to writing a post daily about what I learned that day. I revisited foundational concepts in mathematics—probabilities, linear algebra, and statistics—and explored technologies including Machine Learning and Deep Learning. As of October 2024, I’ve reached 100 days of this practice, and I’m continuing to move forward!</I>
+
+🚀 Check out my recent posting and writings! <a href="https://leahnote01.github.io/blog/">Visit My Blog! </a>
+<!-- Remove above link if you don't want to attibute -->
+
+---
 
 ### Data Science Project
 
@@ -28,17 +36,10 @@
 
 <br>
 
----
-
-### My Github Blog
-
-<p style="font-size:16px"> 🚀 Check out my recent posting and writings! <a href="https://leahnote01.github.io/blog/">Visit to My Blog! </a></p>
-<!-- Remove above link if you don't want to attibute -->
-
 
 ---
 ### Resume and Other Docs
-<p style="font-size:16px">[🙌Most Updated Resume Here](/pdf/ML_Resume_Wonha_Shin_052224.pdf)</p>
+[🙌Most Updated Resume Here](/pdf/ml_resume_wonha_shin_101124.pdf)
 
 
 <!-- - [Project 2 Title](http://example.com/) -->
