@@ -3,7 +3,7 @@
 ---
 ### My Github Blog
 
-<I>Starting May 1st, 2024, I’ve made a commitment to invest my time and energy in learning by writing a post daily about my discoveries. Each day, I dedicate several hours—<b>often 3 to 5 hours per day</B>—to revisiting foundational concepts in mathematics like **probabilities**, **linear algebra**, and **statistics**. I also explore exciting technologies such as **Machine Learning** and **Deep Learning**, pouring into this journey with passion and determination. By October 2024, I will have reached 100 days of this enriching practice, and with each passing day, I’m not just gaining knowledge; I’m forging my path toward a future filled with endless possibilities! Let’s keep moving forward together!</I>
+<I>Starting May 1st, 2024, I’ve made a commitment to invest my time and energy in learning by writing a post daily about my discoveries. Each day, I dedicate several hours—**often 3 to 5 hours per day**—to revisiting foundational concepts in mathematics like **probabilities**, **linear algebra**, and **statistics**. I also explore exciting technologies such as **Machine Learning** and **Deep Learning**, pouring into this journey with passion and determination. By October 2024, I will have reached **100** days of this enriching practice, and with each passing day, I’m not just gaining knowledge; I’m forging my path toward a future filled with endless possibilities! Let’s keep moving forward together!</I>
 
 🚀 Check out my recent posting and writings! <a href="https://leahnote01.github.io/blog/">Visit My Blog! </a>
 <!-- Remove above link if you don't want to attibute -->
