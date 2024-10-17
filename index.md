@@ -46,7 +46,7 @@
 
 ---
 ### Resume and Other Docs
-[🙌Most Updated Resume Here](/pdf/ml_resume_wonha_shin_101124.pdf)
+[🙌Most Updated Resume Here](/pdf/ML_Resume_Wonha_Shin_101724.docx.pdf)
 
 
 <!-- - [Project 2 Title](http://example.com/) -->
