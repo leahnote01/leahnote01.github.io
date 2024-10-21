@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Fueled by a deep-rooted passion for data and its power to transform lives, dedicated to Data Science excellence. 
   Particular interest lies in the realm of Natural Language Processing(NLP) & ML engineering. <br><br>
   <a href="https://www.linkedin.com/in/wshin7/">View My LinkedIn Profile</a> 
-  <a href="https://github.com/leahnote01">View My GitHub Profile</a>
+  # <a href="https://github.com/leahnote01">View My GitHub Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
