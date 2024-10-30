@@ -46,7 +46,7 @@
 
 ---
 ### Resume and Other Docs
-[🙌Most Updated Resume Here](/pdf/ML_Resume_Wonha_Shin_101724.pdf)
+[🙌Most Updated Resume Here](/pdf/ML_Resume_Wonha_Shin_103024.docx.pdf)
 
 
 <!-- - [Project 2 Title](http://example.com/) -->
@@ -59,7 +59,7 @@
 
 ### Email Me
 
-<p style="font-size:16px"> Wonha Shin / wshin7@ur.rochester.edu <a href="mailto:wshin7@ur.rochester.edu"> 📩 Email me! </a></p>
+<p style="font-size:16px"> Wonha Shin / leahnote01@gmail.com <a href="mailto:leahnote01@gmail.com"> 📩 Email me! </a></p>
 <!-- Remove above link if you don't want to attibute -->
 
 ---
