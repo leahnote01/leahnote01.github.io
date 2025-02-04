@@ -11,13 +11,22 @@
 <img src="images/IMG_3058.jpg?raw=true"/>
 
 
-
-
-
-
 ---
 
 ### Data Science Project
+
+#### [LLMOps - LLM-Powered Real-Time Translation System]
+
+<I>In a world where seamless global communication is essential, I was challenged to develop a real-time translation system that integrates advanced AI and scalable cloud infrastructure to efficiently process, translate, and monitor multilingual news streams with ultra-low latency. </I>
+
+To ensure <b>transparency, reproducibility, and continuous improvement,</B> I meticulously documented <B>the entire development process, versioning all pipeline iterations, tracking key design decisions, and logging detailed development notes, </B> including challenges, optimizations, and breakthroughs.
+
+
+📌 Check out the entire project breakdown here: 🔗 [My Notion Page]((https://www.notion.so/LLMOps-Project-1352b8d49a4081659ed4e92bafe1ab4d)
+
+<br>
+
+---
 
 #### [Cross-Cultural NLP Analysis of Luxury Hotel Reviews in Europe- LDA Topic Modeling](/nlp_hotel_review.md)
 <img src="images/HRA.JPG?raw=true"/>
