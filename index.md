@@ -22,7 +22,7 @@
 To ensure <b>transparency, reproducibility, and continuous improvement,</B> I meticulously documented <B>the entire development process, versioning all pipeline iterations, tracking key design decisions, and logging detailed development notes, </B> including challenges, optimizations, and breakthroughs.
 
 
-📌 Check out the entire project breakdown here: 🔗 [My Notion Page](https://dandy-texture-889.notion.site/LLMOps-Project-1352b8d49a4081659ed4e92bafe1ab4d?pvs=4)
+📌 Check out the entire project breakdown here: 🔗 [My Notion Page](https://believed-chevre-225.notion.site/LLMOps-Project-197e7805c3c481aaa37cfc9388a6c2da?pvs=4)
 
 
 <img src="images/llm.JPG?raw=true"/>
