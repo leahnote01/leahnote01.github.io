@@ -59,7 +59,7 @@ To ensure <b>transparency, reproducibility, and continuous improvement,</B> I me
 
 ---
 ### Resume and Other Docs
-[🙌Most Updated Resume Here](/pdf/ML_Resume_Wonha_Shin.pdf)
+[🙌 Most Updated Resume Here](/pdf/ML_Resume_Wonha_Shin.pdf)
 
 
 <!-- - [Project 2 Title](http://example.com/) -->
