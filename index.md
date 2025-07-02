@@ -2,16 +2,16 @@
 
 ---
 ### My Github Blog
-
-<I>**On May 1st, 2024, I made a decision:**
+<I>
+<b>On May 1st, 2024, I made a decision:</b>
 To stop waiting. To stop second-guessing.
 And to start showing up—every single day—to build the future I want.
 
-I committed to a daily deep dive into core foundations—**probability, statistics, linear algebra—paired with hands-on exploration in machine learning and deep learning.** I studied, coded, wrote, and reflected for 100 straight days by October 2024.
+I committed to a daily deep dive into core foundations— <b>probability, statistics, linear algebra—paired with hands-on exploration in machine learning and deep learning.</b> I studied, coded, wrote, and reflected for 100 straight days by October 2024.
 
 But that was just the beginning.
 
-In 2025, I’ve taken it further—diving headfirst into **MLOps**: the critical systems work that makes machine learning real. From **data pipelines and model orchestration to CI/CD, real-time serving, observability, and scale**, I’m learning to build systems that don’t just work in theory—they work in production.
+In 2025, I’ve taken it further—diving headfirst into <b>MLOps</b>: the critical systems work that makes machine learning real. From <b>data pipelines and model orchestration to CI/CD, real-time serving, observability, and scale</b>, I’m learning to build systems that don’t just work in theory—they work in production.
 
 By mid-2025, I’ll have crossed <U><b>200 days of focused, high-impact learning.</b></U>
 And I’m still accelerating.
@@ -22,8 +22,8 @@ I’m building the skills, mindset, and systems that will define my future as a 
 
 I’m not just studying.
 I’m training.
-Let’s keep going. 🚀
-</I>
+Let’s keep going. 🚀 </I>
+
 
 🚀 Check out my recent posting and writings! <a href="https://leahnote01.github.io/blog/">Visit My Blog! </a>
 <!-- Remove above link if you don't want to attibute -->
