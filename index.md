@@ -3,7 +3,26 @@
 ---
 ### My Github Blog
 
-<I>Starting May 1st, 2024, I’ve made a commitment to invest my time and energy in learning by writing a post daily about my discoveries. Each day, I dedicate several hours—<b>often 3 to 5 hours per day</b>—to revisiting foundational concepts in mathematics like **probabilities**, **linear algebra**, and **statistics**. I also explore exciting technologies such as **Machine Learning** and **Deep Learning**, pouring into this journey with passion and determination. By October 2024, I will have reached <b>100</b> days of this enriching practice, and with each passing day, I’m not just gaining knowledge; I’m forging my path toward a future filled with endless possibilities! Let’s keep moving forward together!</I>
+<I>**On May 1st, 2024, I made a decision:**
+To stop waiting. To stop second-guessing.
+And to start showing up—every single day—to build the future I want.
+
+I committed to a daily deep dive into core foundations—**probability, statistics, linear algebra—paired with hands-on exploration in machine learning and deep learning.** I studied, coded, wrote, and reflected for 100 straight days by October 2024.
+
+But that was just the beginning.
+
+In 2025, I’ve taken it further—diving headfirst into **MLOps**: the critical systems work that makes machine learning real. From **data pipelines and model orchestration to CI/CD, real-time serving, observability, and scale**, I’m learning to build systems that don’t just work in theory—they work in production.
+
+By mid-2025, I’ll have crossed <U>**200 days of focused, high-impact learning.**</U>
+And I’m still accelerating.
+
+This project isn’t a side quest. It’s the path.
+Every post. Every hour. Every breakthrough.
+I’m building the skills, mindset, and systems that will define my future as a machine learning engineer.
+
+I’m not just studying.
+I’m training.
+Let’s keep going. 🚀</I>
 
 🚀 Check out my recent posting and writings! <a href="https://leahnote01.github.io/blog/">Visit My Blog! </a>
 <!-- Remove above link if you don't want to attibute -->
