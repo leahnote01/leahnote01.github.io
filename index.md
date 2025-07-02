@@ -22,7 +22,8 @@ I’m building the skills, mindset, and systems that will define my future as a 
 
 I’m not just studying.
 I’m training.
-Let’s keep going. 🚀  </I>
+Let’s keep going. 🚀
+</I>
 
 🚀 Check out my recent posting and writings! <a href="https://leahnote01.github.io/blog/">Visit My Blog! </a>
 <!-- Remove above link if you don't want to attibute -->
