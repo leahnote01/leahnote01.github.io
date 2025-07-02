@@ -13,7 +13,7 @@ But that was just the beginning.
 
 In 2025, I’ve taken it further—diving headfirst into **MLOps**: the critical systems work that makes machine learning real. From **data pipelines and model orchestration to CI/CD, real-time serving, observability, and scale**, I’m learning to build systems that don’t just work in theory—they work in production.
 
-By mid-2025, I’ll have crossed <U>**200 days of focused, high-impact learning.**</U>
+By mid-2025, I’ll have crossed <U><b>200 days of focused, high-impact learning.</b></U>
 And I’m still accelerating.
 
 This project isn’t a side quest. It’s the path.
@@ -22,7 +22,7 @@ I’m building the skills, mindset, and systems that will define my future as a 
 
 I’m not just studying.
 I’m training.
-Let’s keep going. 🚀</I>
+Let’s keep going. 🚀  </I>
 
 🚀 Check out my recent posting and writings! <a href="https://leahnote01.github.io/blog/">Visit My Blog! </a>
 <!-- Remove above link if you don't want to attibute -->
