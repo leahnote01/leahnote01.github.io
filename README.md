@@ -15,7 +15,7 @@ Welcome! I'm **Wonha (Leah) Shin**, a Data Scientist and NLP/ML Engineer dedicat
 - Cultivated discipline and honed technical communication skills.
 - This journey reinforces lifelong learning and clarity in both code and thought.
 
-🔗 [Explore the Writing Journey](https://leahnote01.github.io/blog/project/200-days-writing/)
+🔗 [Explore the Writing Journey](https://leahnote01.github.io/blog/)
 
 ---
 
@@ -27,7 +27,7 @@ Welcome! I'm **Wonha (Leah) Shin**, a Data Scientist and NLP/ML Engineer dedicat
 - Implemented **drift detection** using KL Divergence & BLEU Score with auto-retraining triggers.
 - Logged all model metrics and experiments with Weights & Biases for MLOps observability.
 
-🔗 [Read Project Overview](https://leahnote01.github.io/blog/project/llmops-translation/)
+🔗 [Read Project Overview](https://believed-chevre-225.notion.site/LLMOps-Project-197e7805c3c481aaa37cfc9388a6c2da?pvs=4)
 
 ---
 
@@ -38,7 +38,7 @@ Welcome! I'm **Wonha (Leah) Shin**, a Data Scientist and NLP/ML Engineer dedicat
 - Used a Hugging Face transformer (`cardiffnlp/twitter-roberta-base-sentiment`) wrapped in a UDF.
 - Integrated MLflow for model registry, versioning, and live experiment tracking.
 
-🔗 [View Code on GitHub](https://github.com/leahnote01/dscc402/blob/main/final_project/includes/includes.ipynb)
+🔗 [Read Project Overview](https://leahnote01.github.io/realtime_tweet.html)
 
 ---
 
@@ -49,7 +49,7 @@ Welcome! I'm **Wonha (Leah) Shin**, a Data Scientist and NLP/ML Engineer dedicat
 - Used topic modeling and transformer-based classification to compare linguistic and thematic nuances.
 - Assessed how translation influences meaning—offering implications for public health campaigns.
 
-🔗 [Read Full Report (PDF)](pdf/E-Cig_Capstone_Report_WonhaShin.pdf)
+🔗 [Read Project Overview](https://leahnote01.github.io/ecigar.html)
 
 ---
 
@@ -60,7 +60,7 @@ Welcome! I'm **Wonha (Leah) Shin**, a Data Scientist and NLP/ML Engineer dedicat
 - Used Gensim LDA and NMF for topic modeling, with visualizations in Tableau.
 - Provided actionable insights for hospitality industry market positioning.
 
-🔗 [View Slides (PDF)](pdf/Hotel_Review_Analysis_Slides.pptx.pdf)
+🔗 [Read Project Overview](https://leahnote01.github.io/nlp_hotel_review.html)
 
 ---
 
@@ -79,7 +79,7 @@ Welcome! I'm **Wonha (Leah) Shin**, a Data Scientist and NLP/ML Engineer dedicat
 
 I earned my Master’s in Data Science from the **University of Rochester**, where I developed a strong foundation in machine learning, NLP, and MLOps. I'm deeply motivated by building interpretable, scalable, and production-ready AI systems—and telling meaningful stories with data.
 
-📫 [Connect on LinkedIn](https://www.linkedin.com/in/leahshin/)  
+📫 [Connect on LinkedIn](https://www.linkedin.com/in/wshin7/)  
 📝 [Visit My Blog](https://leahnote01.github.io/blog/)
 
 ---
