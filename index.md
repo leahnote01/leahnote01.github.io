@@ -5,7 +5,8 @@
 <I>
 <b>On May 1st, 2024, I made a decision:</b>
 To stop waiting. To stop second-guessing.
-And to start showing up—every single day—to build the future I want.
+And to start showing up—every single day—to build the future I want. </I>
+
 
 I committed to a daily deep dive into core foundations— <b>probability, statistics, linear algebra—paired with hands-on exploration in machine learning and deep learning.</b> I studied, coded, wrote, and reflected for 100 straight days by October 2024.
 
@@ -22,7 +23,7 @@ I’m building the skills, mindset, and systems that will define my future as a 
 
 I’m not just studying.
 I’m training.
-Let’s keep going. 🚀 </I>
+Let’s keep going. 🚀
 
 
 🚀 Check out my recent posting and writings! <a href="https://leahnote01.github.io/blog/">Visit My Blog! </a>
