@@ -1,4 +1,4 @@
-# 🌐 Leah Shin's AI/ML Portfolio
+# 🌐 Wonha Shin's AI/ML Portfolio
 
 Welcome! I'm **Wonha (Leah) Shin**, a Data Scientist and NLP/ML Engineer dedicated to uncovering complex insights through intelligent systems. My work lies at the intersection of **Natural Language Processing**, **MLOps**, and **scalable machine learning pipelines**, with real-world applications across health, social media, and multilingual analytics.
 
