@@ -57,7 +57,7 @@ To ensure <b>transparency, reproducibility, and continuous improvement,</B> I me
 
 
 ---
-#### [Editing]
+#### [Real-Time Tweet Sentiment Analysis Pipeline](realtime_tweet.md)
 
 
 ---
