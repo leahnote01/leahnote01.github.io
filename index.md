@@ -53,11 +53,13 @@ To ensure <b>transparency, reproducibility, and continuous improvement,</B> I me
 
 ---
 #### [Multilingual NLP Analysis of E-Cigarette Perceptions on Social Media](ecigar.md)
+<img src="images/ecigar.JPG?raw=true"/>
 
 
 
 ---
 #### [Real-Time Tweet Sentiment Analysis Pipeline](realtime_tweet.md)
+<img src="images/realtime_tweet.png?raw=true"/>
 
 
 ---
