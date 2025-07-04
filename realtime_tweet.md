@@ -95,6 +95,6 @@ This project successfully demonstrated a fully functional, end-to-end real-time 
 
 ---
 
-### Report Download
-
-Full report is available here <a href="pdf/Hotel_Review_Analysis_Wonha Shin.pdf">Report Viewer</a>
+### 📎 Full Code Access
+Full code snippet is available here:
+<a href="https://github.com/leahnote01/dscc402/blob/main/final_project/Starter%20Streaming%20Tweet%20Sentiment%20-%20Spring%202024%20Final%20Project.ipynb" target="_blank">👉 Let’s go to my GitHub!</a>
