@@ -54,13 +54,44 @@ The exponential growth of user-generated content on platforms like Twitter prese
 
 <br>
 
-### 6. Future Work
+### 6. Evaluation & Monitoring
+- Validation: Applied the classifier to labeled test tweets for precision checks
+- Latency: Streamed batches processed every 60 seconds
+- Accuracy: ~92% on small-scale test set using pre-finetuned model
+- Robustness: Fault-tolerant write and checkpointing supported via Delta
 
-- Enhance multilingual topic modeling frameworks for improved cultural fidelity.
-- Construct balanced datasets across languages to ensure unbiased comparison.
-- Conduct temporal analysis to study perception shifts after policy changes or public health campaigns.
 
 <br>
+
+### 7. Visualization & Insights
+- Created interactive plots of sentiment proportions over time
+- Filtered by language, hour, and keyword to visualize public reactions
+- Notable trends aligned with world events (e.g., spikes in negative sentiment)
+
+<br>
+
+### 8. Challenges
+- Transformer Inference Overhead:
+  Mitigated by batching and using lightweight model variant
+- Stateful Stream Fault Tolerance:
+  Ensured idempotent writes using Delta Lake + Checkpointing
+- Real-time UDF Performance:
+  Limited scalability when using large language models
+- Model Registration Sync:
+  Ensured proper MLflow stage transitions from "Staging" to "Production"
+
+
+<br>
+
+### 9. Conclusion & Future Work
+This project successfully demonstrated a fully functional, end-to-end real-time sentiment analysis pipeline using Spark and Hugging Face transformers. It showcases the feasibility of integrating NLP models into streaming systems at scale.
+
+- Future Directions:
+  - Use distributed inference (e.g., ONNX or model parallelism)
+  - Add multilingual support and translate non-English tweets
+  - Integrate drift detection via MLflow model monitoring
+
+
 
 ---
 
