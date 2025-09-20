@@ -38,13 +38,21 @@ Let’s keep going. 🚀
 
 #### [LLMOps - LLM-Powered Real-Time Translation System]
 
-<I>In a world where seamless global communication is essential, I was challenged to develop a real-time translation system that integrates advanced AI and scalable cloud infrastructure to efficiently process, translate, and monitor multilingual news streams with ultra-low latency. </I>
+<I>In today’s world, seamless global communication is vital. I set out to design and implement a real-time translation system that combines advanced AI with scalable cloud infrastructure to process, translate, and monitor multilingual news streams with ultra-low latency.</I>
 
-To ensure <b>transparency, reproducibility, and continuous improvement,</B> I meticulously documented <B>the entire development process, versioning all pipeline iterations, tracking key design decisions, and logging detailed development notes, </B> including challenges, optimizations, and breakthroughs.
+To ensure <b>transparency, reproducibility, and continuous improvement,</b> I rigorously documented the full development lifecycle—versioning every pipeline iteration, capturing key design decisions, and logging detailed notes on challenges, optimizations, and breakthroughs.
 
+This project delivered a <b>real-time multilingual translation pipeline built on LLMOps principles.</b> The architecture integrated:
+- **Amazon EC2** Web Server
+- **Kafka** for distributed data streaming
+- **Hugging Face** models for high-quality translations
+- **FastAPI** for API management
+- **Docker** for containerization
+- **Prometheus**/**Grafana** for real-time monitoring
 
-📌 Check out the entire project breakdown here: 🔗 [My Notion Page](https://believed-chevre-225.notion.site/LLMOps-Project-197e7805c3c481aaa37cfc9388a6c2da?pvs=4)
+The system tackled critical challenges around <b>latency, scalability, and evolving language trends</b>, resulting in a seamless and lightning-fast streaming experience.
 
+📌 Explore the full project breakdown here: 🔗 [My Notion Page](https://believed-chevre-225.notion.site/LLMOps-Project-197e7805c3c481aaa37cfc9388a6c2da?pvs=4)
 
 <img src="images/llm.JPG?raw=true"/>
 
