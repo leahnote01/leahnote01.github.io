@@ -19,11 +19,8 @@ In <b>2025</b>, I’ve taken it further—diving headfirst into **MLOps**: the c
 
 By mid-2025, I reached **200 days** of focused, high-impact learning. And I haven’t stopped. The journey continues—each post, each hour, each breakthrough shaping the skills, mindset, and systems that define my path as a machine learning engineer.
 
-This project isn’t a side quest. It’s the path.
-Every post. Every hour. Every breakthrough.
-I’m building the skills, mindset, and systems that will define my future as a machine learning engineer.
-
-<i>**I’m not just studying. I’m training.**</i>
+This isn’t a side quest. It’s the path.
+I’m not just studying. I’m training.
 And the momentum keeps building!
 
 
