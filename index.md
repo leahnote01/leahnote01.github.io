@@ -44,11 +44,11 @@ And the momentum keeps building!
 To ensure <b>transparency, reproducibility, and continuous improvement,</b> I rigorously documented the full development lifecycle—versioning every pipeline iteration, capturing key design decisions, and logging detailed notes on challenges, optimizations, and breakthroughs.
 
 This project delivered a <b>real-time multilingual translation pipeline built on LLMOps principles.</b> The architecture integrated:
-- **Amazon EC2** Web Server
+- **Amazon EC2** 7 web multiple servers for scalability
 - **Kafka** for distributed data streaming
 - **Hugging Face** models for high-quality translations
 - **FastAPI** for API management
-- **Docker** for containerization
+- **Docker** for ensuring consistent deployment
 - **Prometheus**/**Grafana** for real-time monitoring
 
 The system tackled critical challenges around <b>latency, scalability, and evolving language trends</b>, resulting in a seamless and lightning-fast streaming experience.
