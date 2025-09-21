@@ -5,7 +5,7 @@
 <I><b>On May 1st, 2024, I made a decision:</b>
 No more waiting. No more second-guessing. </I>
   
-From that day on, I committed to showing up— **every single day—to build the future I want.**
+From that day on, I committed to showing up— <b>every single day—to build the future I want.</b>
 
 
 It wasn’t just about learning. It was about proving to myself that I can create, grow, and rebuild from the ground up with stronger foundations.
