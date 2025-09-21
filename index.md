@@ -27,7 +27,7 @@ And the momentum keeps building!
 🚀 Check out my recent posting and writings! <a href="https://leahnote01.github.io/blog/">Visit My Blog! </a>
 <!-- Remove above link if you don't want to attibute -->
 
-<img src="images/IMG_3058.jpg?raw=true"/>
+<img src="images/timestamp_2.JPG?raw=true"/>
 
 
 ---
