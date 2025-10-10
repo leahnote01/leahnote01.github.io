@@ -58,21 +58,10 @@ The system processes millions of tweets with **low latency**, leveraging a **Del
 ---
 
 ### 🧩 Key Challenges & Solutions  
-| Challenge | Solution |
-|------------|-----------|
-| Transformer inference overhead | Batched processing + lightweight RoBERTa variant |
-| Stateful stream recovery | Delta checkpointing + idempotent writes |
-| Real-time model scaling | Asynchronous UDF + caching of embeddings |
-| MLflow registry sync | Automated transition scripts for model stage promotion |
-
----
-
-### 🌱 Conclusion & Future Work  
-This project validated the feasibility of **streaming NLP at scale**, integrating **real-time data engineering** with **production-ready model management**.  
-Next steps include:  
-- Distributed inference via **ONNX Runtime or PyTorch Serve**  
-- **Multilingual sentiment detection** (auto-translation pipeline)  
-- **Drift detection and automated retraining** via MLflow model monitoring  
+- **Transformer inference overhead** → Batched processing + lightweight RoBERTa variant  
+- **Stateful stream recovery** → Delta checkpointing + idempotent writes  
+- **Real-time model scaling** → Asynchronous UDF + caching of embeddings  
+- **MLflow registry sync** → Automated transition scripts for model stage promotion  
 
 ---
 
@@ -82,5 +71,6 @@ Next steps include:
 ---
 
 📘 **Keywords:**  
-`PySpark Structured Streaming` `Delta Lake` `Databricks` `Transformer Models` `MLflow`  
-`Real-Time Inference` `Data Engineering` `Hugging Face` `MLOps` `Sentiment Analysis`
+`PySpark Structured Streaming` | `Delta Lake` | `Databricks` | `Transformer Models` | `MLflow` |  
+`Real-Time Inference` | `Data Engineering` | `Hugging Face` | `MLOps` | `Sentiment Analysis`
+
