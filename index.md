@@ -2,26 +2,30 @@
 
 ---
 ### My Github Blog
-<I><b>On May 1st, 2024, I made a decision:</b>
-No more waiting. No more second-guessing. </I>
-  
-From that day on, I committed to showing up— <b>every single day—to build the future I want.</b>
+### 🚀 My Turning Point
 
+**May 1st, 2024.**  
+I decided to face my weaknesses — not to avoid them, but to rebuild from the ground up.  
+Two years into studying data science, I realized that while I could *use* algorithms, I didn’t *understand* them deeply enough.  
+So instead of feeling overwhelmed, I committed to start over with intention and consistency.
 
-It wasn’t just about learning. It was about proving to myself that I can create, grow, and rebuild from the ground up with stronger foundations.
+I made a promise to myself: **one post, every single day.**  
+My first goal was simple — to dissect every algorithm, every concept, and rebuild my intuition.  
+For a year, I revisited everything I had learned in graduate school and beyond —  
+**Statistics, Probability, Linear Algebra, Machine Learning, and Database Systems**,  
+then expanded into **Deep Learning, Large Language Models (LLMs), and MLOps.**
 
+During that summer, I spent 100 days immersed in study and reflection.  
+By the start of the next semester, something had changed —  
+I no longer struggled with the “how” of technology or coding.  
+I began to lead team projects as the **technical lead**, translating ideas into working systems.
 
-I committed to a daily deep dive into the <b>core foundations</b> —probability, statistics, linear algebra—paired with hands-on exploration in machine learning and deep learning. For 100 straight days, I studied, coded, wrote, and reflected. By October 2024, I had crossed the <b>100-day mark.</b>
+That consistency became my foundation.  
+By the end of 2024, I had explored **neural networks, transformers, data-centric AI, and conformal prediction**,  
+and by 2025, I moved deeper into **MLOps** — learning how **pipelines, CI/CD, monitoring, and drift detection** make models truly production-ready.
 
-But that was just the beginning.
-
-In <b>2025</b>, I’ve taken it further—diving headfirst into **MLOps**: the critical systems work that makes machine learning real. From <b>data pipelines and model orchestration to CI/CD, real-time serving, observability, and scaling</b>, I’ve been building systems that don’t just work in theory—they work in practice.
-
-By mid-2025, I reached **200 days** of focused, high-impact learning. And I haven’t stopped. The journey continues—each post, each hour, each breakthrough shaping the skills, mindset, and systems that define my path as a machine learning engineer.
-
-This isn’t a side quest. It’s the path.
-I’m not just studying. I’m training.
-And the momentum keeps building!
+What began as rebuilding turned into transformation —  
+a journey of learning, building, and scaling as a MLops Engineer.
 
 
 🚀 Check out my recent posting and writings! <a href="https://leahnote01.github.io/blog/">Visit My Blog! </a>
