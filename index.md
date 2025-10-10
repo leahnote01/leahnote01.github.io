@@ -69,7 +69,9 @@ versioning every pipeline iteration, documenting key design decisions, and loggi
 
 ---
 
-📘 **Keywords:**  Kafka   FastAPI   Docker   AWS EC2   Prometheus   Grafana   Hugging Face   LLMOps   MLOps   Machine Translation   
+📘 **Keywords:**
+| Kafka | FastAPI | Docker | AWS EC2 | Prometheus | Grafana |  
+| Hugging Face | LLMOps | MLOps | Machine Translation |
 📌 Explore the full project breakdown here: 🔗 [My Notion Page](https://believed-chevre-225.notion.site/LLMOps-Project-197e7805c3c481aaa37cfc9388a6c2da?pvs=4)
 
 <img src="images/llm.JPG?raw=true"/>
