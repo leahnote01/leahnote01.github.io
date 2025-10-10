@@ -2,42 +2,22 @@
 
 ---
 ### My Github Blog
-### 🚀 My Turning Point
+**May 1st, 2024** — I made a promise to rebuild from the ground up.  
+After two years studying data science, I realized I could *use* algorithms but didn’t *understand* them deeply enough.  
+So I started over — posting every day to rebuild my intuition and technical depth.
 
-**May 1st, 2024.**  
-I decided to face my weaknesses — not to avoid them, but to rebuild from the ground up.  
-Two years into studying data science, I realized that while I could use algorithms, I didn’t understand them deeply enough.  
-So instead of feeling overwhelmed, I committed to start over with intention and consistency.
+Over a year, I revisited **Statistics, Probability, Machine Learning, and Databases**,  
+then expanded into **Deep Learning, LLMs, and MLOps.**  
+That journey transformed me — from learning algorithms to leading **real-world ML & MLOps projects.**  
 
-I made a promise to myself: **one post, every single day.**  
-My first goal was simple — to dissect every algorithm, every concept, and rebuild my intuition.  
-For a year, I revisited everything I had learned in graduate school and beyond —  
-**Statistics, Probability, Linear Algebra, Machine Learning, and Database Systems,**  
-then expanded into **Deep Learning, Large Language Models (LLMs), and MLOps.**
+Through this commitment, I’ve written **over 200 in-depth posts** exploring everything from the foundations of statistics to the architecture of transformers and production-grade ML systems.  
 
-During that summer, I spent **100 days immersed** in study and reflection.  
-By the start of the next semester, something had changed —  
-I no longer struggled with the *“how”* of technology or coding.  
-I began to lead team projects as the **technical lead**, translating ideas into working systems.
+Each post became a reflection of growth — documenting not only *what I learned* but *how I built, deployed, and optimized* real systems.  
+Today, the blog stands as a living record of my continuous evolution from student to **Machine Learning & MLOps Engineer** — grounded in curiosity, consistency, and craftsmanship.
 
-That consistency became my foundation.  
-By the end of 2024, I had explored **neural networks, transformers, data-centric AI, and conformal prediction,**  
-and by 2025, I moved deeper into **MLOps — learning how pipelines, CI/CD, monitoring, and drift detection** make models truly production-ready.
+🔗 [**Visit My Blog →**](https://leahnote01.github.io/blog/)  
 
-What began as rebuilding turned into transformation —  
-a journey of learning, building, and scaling as a **Machine Learning & MLOps Engineer.**
-
----
-
-📘 **Keywords:**  
-| Machine Learning | Deep Learning | Large Language Models (LLMs) | MLOps | Data Engineering |  
-| Pipeline Automation | CI/CD | Monitoring | Drift Detection | Model Deployment |  
-| Neural Networks | Transformers | Data-Centric AI | Conformal Prediction |
-
-🚀 Check out my recent posting and writings! <a href="https://leahnote01.github.io/blog/">Visit My Blog! </a>
-<!-- Remove above link if you don't want to attibute -->
-
-<img src="images/timestamp_2.JPG?raw=true"/>
+<img src="images/timestamp_2.JPG?raw=true" width="600"/>
 
 
 ---
