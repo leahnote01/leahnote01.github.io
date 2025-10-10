@@ -1,13 +1,14 @@
-title: Wonha (Leah) Shin # your name (or website title) here
-logo: "/images/IMG_1782.jpeg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+title: Wonha (Leah) Shin
+logo: "/images/IMG_1782.jpeg?raw=true"
+description: >
   <br>
-  <b>AI / ML Data Scientist MSDS @ Uni. Rochester </b>
+  <b>Machine Learning & MLOps Engineer</b>  
   <br>
-  Fueled by a deep-rooted passion for data and its power to transform lives, dedicated to Data Science excellence. 
-  Particular interest lies in the realm of Natural Language Processing(NLP) & ML engineering. <br><br>
-  <a href="https://www.linkedin.com/in/wshin7/">View My LinkedIn Profile</a> 
-  <!-- - a href="https://github.com/leahnote01">View My GitHub Profile</a> -->
+  I design, build, and scale intelligent systems — from <b>streaming NLP pipelines</b> to <b>real-time LLM applications</b>.  
+  Driven by curiosity, I combine <b>data engineering</b> with <b>AI research</b> to turn ideas into production-ready systems.  
+  <br><br>
+  <a href="https://www.linkedin.com/in/wshin7/">View My LinkedIn Profile</a>
+
 
 
   
