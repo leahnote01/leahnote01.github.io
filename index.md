@@ -24,75 +24,85 @@ Today, the blog stands as a living record of my continuous evolution from studen
 
 ### Data Science Project
 
-#### [LLMOps - LLM-Powered Real-Time Translation System]
+#### [LLMOps — LLM-Powered Real-Time Translation System]  
+**| Kafka | FastAPI | Docker | AWS EC2 | Prometheus | Grafana | Hugging Face | LLMOps | MLOps | Machine Translation |**
 
-#### 🌍 Overview  
-In today’s world, seamless global communication is vital.  
-I designed and implemented a **real-time multilingual translation system** that combines **advanced AI** with **scalable cloud infrastructure** to process and translate continuous news streams with **ultra-low latency**.
+Designed and implemented a **real-time multilingual translation system** that combines **advanced AI** with **scalable cloud infrastructure** to process and translate continuous news streams with **ultra-low latency**.
 
-#### 🧩 Architecture & Key Components  
+### 🧩 Architecture & Key Components  
 - **Amazon EC2 (7 instances):** Multi-server setup for distributed scalability  
 - **Kafka:** High-throughput message streaming backbone  
-- **FastAPI:** Lightweight, asynchronous API for real-time translation requests  
-- **Hugging Face (Helsinki-NLP/opus-mt-es-en):** High-quality Spanish→English translation model  
-- **Docker:** Ensures consistent and portable deployment across environments  
-- **Prometheus + Grafana:** Real-time monitoring and visualization for system observability  
+- **FastAPI:** Asynchronous API for low-latency translation requests  
+- **Hugging Face (Helsinki-NLP/opus-mt-es-en):** Spanish → English translation model  
+- **Docker:** Ensures consistent, portable deployments  
+- **Prometheus + Grafana:** Real-time monitoring and system observability
 
-#### ⚙️ Implementation Focus  
-Applied **LLMOps principles** to ensure **transparency, reproducibility, and continuous improvement** —  
-versioning every pipeline iteration, documenting key design decisions, and logging detailed notes on challenges, optimizations, and breakthroughs.
+### 🚀 Impact  
+- Achieved **sub-second translation latency** under real-time workloads  
+- Built a **fault-tolerant multilingual pipeline** ready for production deployment  
+- Delivered a **fully observable system** tracking latency, throughput, and translation quality in real time  
 
-#### 🚀 Impact  
-- Achieved **sub-second translation latency** under streaming workloads  
-- Built a **scalable, fault-tolerant multilingual pipeline** ready for real-world deployment  
-- Delivered a **fully observable system** tracking latency, throughput, and translation quality  
 
----
+📌 **Explore the full project breakdown:**  
 
-📘 **Keywords:**
-| Kafka | FastAPI | Docker | AWS EC2 | Prometheus | Grafana |  
-| Hugging Face | LLMOps | MLOps | Machine Translation |
-📌 Explore the full project breakdown here: 🔗 [My Notion Page](https://believed-chevre-225.notion.site/LLMOps-Project-197e7805c3c481aaa37cfc9388a6c2da?pvs=4)
+🔗 [My Notion Page](https://believed-chevre-225.notion.site/LLMOps-Project-197e7805c3c481aaa37cfc9388a6c2da?pvs=4)
 
-<img src="images/llm.JPG?raw=true"/>
+<img src="images/llm.JPG?raw=true" width="600"/>
+
 
 
 <br>
 
 
 ---
-#### [Real-Time Tweet Sentiment Analysis Pipeline](realtime_tweet.md)
-<img src="images/realtime_tweet.png?raw=true"/>
+#### [Real-Time Tweet Sentiment Analysis Pipeline](realtime_tweet.md)  
+**| PySpark Structured Streaming | Delta Lake | Databricks | Transformer Models | MLflow | Real-Time Inference | Hugging Face | MLOps | Sentiment Analysis |**
+
+Built a **real-time tweet sentiment classification pipeline** on Databricks using **Spark Structured Streaming** and **Transformer models**, with **MLflow** for experiment tracking and **Delta Lake** for fault-tolerant storage.  
+Delivered **live dashboards** visualizing sentiment trends across millions of tweets.
+
+<img src="images/realtime_tweet.png?raw=true" width="600"/>
 
 ---
-#### [Multilingual NLP Analysis of E-Cigarette Perceptions on Social Media](ecigar.md)
-<img src="images/ecigar.JPG?raw=true"/>
+#### [Multilingual NLP Analysis of E-Cigarette Perceptions on Social Media](ecigar.md)  
+**| NLP | BERTopic | RoBERTa | Hugging Face | Multilingual Analysis | Sentiment Modeling | Data Visualization |**
+
+Analyzed **500K+ multilingual social media posts (English & Spanish)** to uncover public perceptions of e-cigarettes using **BERTopic** and **RoBERTa**, identifying cross-lingual sentiment shifts and key discussion themes.
+
+<img src="images/ecigar.JPG?raw=true" width="600"/>
 
 ---
+#### [Cross-Cultural NLP Analysis of Luxury Hotel Reviews in Europe — LDA Topic Modeling](/nlp_hotel_review.md)  
+**| LDA | Topic Modeling | NLP | Sentiment Analysis | Cross-Cultural Analytics | Python | Visualization |**
 
-#### [Cross-Cultural NLP Analysis of Luxury Hotel Reviews in Europe- LDA Topic Modeling](/nlp_hotel_review.md)
-<img src="images/HRA.JPG?raw=true"/>
+Explored **European luxury hotel reviews** using **LDA topic modeling** to uncover **country-specific satisfaction drivers**, linking linguistic tone to cultural preferences and customer experience.
 
-<br>
-
----
-[Quality of Life Analysis : Tri-State Visualization (Report PDF)](/pdf/Quality_of_Life_Analysis.pdf)
-<img src="images/QOL.JPG?raw=true"/>
-
-<br>
+<img src="images/HRA.JPG?raw=true" width="600"/>
 
 ---
-[Multidimensional Analysis of Video Game Sales and Global Market Trends (Report PDF)](/pdf/Stats_Project_Final.pdf)
-<img src="images/stat.JPG?raw=true"/>
+[Quality of Life Analysis: Tri-State Visualization (Report PDF)](/pdf/Quality_of_Life_Analysis.pdf)  
+**| Data Visualization | Tableau | Statistics | Socioeconomic Indicators | Public Data Analysis |**
 
-<br>
+Developed an **interactive dashboard** comparing **education, income, housing, and healthcare** metrics across New York, New Jersey, and Connecticut to evaluate **regional quality of life** patterns.
+
+<img src="images/QOL.JPG?raw=true" width="600"/>
 
 ---
+[Multidimensional Analysis of Video Game Sales and Global Market Trends (Report PDF)](/pdf/Stats_Project_Final.pdf)  
+**| Statistics | Regression Analysis | Market Analytics | Data Visualization | Exploratory Data Analysis |**
 
-#### [COVID-19 Awareness & Prediction Analysis thru ML & DL ](/covid19_ohio_awareness.md)
-<img src="images/OHIO.JPG?raw=true"/>
+Performed **multivariate statistical modeling** on global video game sales to uncover **genre, platform, and regional trends**, providing insight into **market dynamics and sales forecasting**.
 
-<br>
+<img src="images/stat.JPG?raw=true" width="600"/>
+
+---
+#### [COVID-19 Awareness & Prediction Analysis through ML & DL](/covid19_ohio_awareness.md)  
+**| Machine Learning | Deep Learning | Time Series Forecasting | Data Visualization | Public Health Analytics |**
+
+Developed **ML/DL models** to predict COVID-19 trends in Ohio using **feature engineering and time-series modeling**, revealing key behavioral and social factors influencing public awareness.
+
+<img src="images/OHIO.JPG?raw=true" width="600"/>
+
 
 
 ---
