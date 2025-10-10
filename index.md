@@ -6,9 +6,7 @@
 After two years studying data science, I realized I could *use* algorithms but didn’t *understand* them deeply enough.  
 So I started over — posting every day to rebuild my intuition and technical depth.
 
-Over a year, I revisited **Statistics, Probability, Machine Learning, and Databases**,  
-then expanded into **Deep Learning, LLMs, and MLOps.**  
-That journey transformed me — from learning algorithms to leading **real-world ML & MLOps projects.**  
+Over a year, I revisited **Statistics, Probability, Machine Learning, and Databases**, then expanded into **Deep Learning, LLMs, and MLOps.**   That journey transformed me — from learning algorithms to leading **real-world ML & MLOps projects.**  
 
 Through this commitment, I’ve written **over 200 in-depth posts** exploring everything from the foundations of statistics to the architecture of transformers and production-grade ML systems.  
 
