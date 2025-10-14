@@ -41,11 +41,9 @@ Designed and implemented a **real-time multilingual translation system** that co
 - Delivered a **fully observable system** tracking latency, throughput, and translation quality in real time  
 
 
-📌 **Explore the full project breakdown:**  
-
-🔗 [My Notion Page](https://believed-chevre-225.notion.site/LLMOps-Project-197e7805c3c481aaa37cfc9388a6c2da?pvs=4)
-
-<img src="images/llm.JPG?raw=true" width="600"/>
+### 🔗 Project Resources
+- 📄 [**LLMops: Real-Time MLOps Pipeline (PDF)**](pdf/WonhaShin_LLMops_MLOps_Pipeline_compressed.pdf)  
+- 🧭 [**Full Project Breakdown on Notion**](https://believed-chevre-225.notion.site/LLMOps-Project-197e7805c3c481aaa37cfc9388a6c2da?pvs=4)  
 
 
 
@@ -53,7 +51,7 @@ Designed and implemented a **real-time multilingual translation system** that co
 
 
 ---
-#### [Real-Time Tweet Sentiment Analysis Pipeline](realtime_tweet.md)  
+#### [🔗 Real-Time Tweet Sentiment Analysis Pipeline](realtime_tweet.md)  
 **| PySpark Structured Streaming | Delta Lake | Databricks | Transformer Models | MLflow | Real-Time Inference | Hugging Face | MLOps | Sentiment Analysis |**
 
 Built a **real-time tweet sentiment classification pipeline** on Databricks using **Spark Structured Streaming** and **Transformer models**, with **MLflow** for experiment tracking and **Delta Lake** for fault-tolerant storage.  
@@ -62,7 +60,7 @@ Delivered **live dashboards** visualizing sentiment trends across millions of tw
 <img src="images/realtime_tweet.png?raw=true" width="600"/>
 
 ---
-#### [Multilingual NLP Analysis of E-Cigarette Perceptions on Social Media](ecigar.md)  
+#### [🔗 Multilingual NLP Analysis of E-Cigarette Perceptions on Social Media](ecigar.md)  
 **| NLP | BERTopic | RoBERTa | Hugging Face | Multilingual Analysis | Sentiment Modeling | Data Visualization |**
 
 Analyzed **500K+ multilingual social media posts (English & Spanish)** to uncover public perceptions of e-cigarettes using **BERTopic** and **RoBERTa**, identifying cross-lingual sentiment shifts and key discussion themes.
@@ -70,7 +68,7 @@ Analyzed **500K+ multilingual social media posts (English & Spanish)** to uncove
 <img src="images/ecigar.JPG?raw=true" width="600"/>
 
 ---
-#### [Cross-Cultural NLP Analysis of Luxury Hotel Reviews in Europe — LDA Topic Modeling](/nlp_hotel_review.md)  
+#### [🔗 Cross-Cultural NLP Analysis of Luxury Hotel Reviews in Europe — LDA Topic Modeling](/nlp_hotel_review.md)  
 **| LDA | Topic Modeling | NLP | Sentiment Analysis | Cross-Cultural Analytics | Python | Visualization |**
 
 Explored **European luxury hotel reviews** using **LDA topic modeling** to uncover **country-specific satisfaction drivers**, linking linguistic tone to cultural preferences and customer experience.
@@ -78,7 +76,7 @@ Explored **European luxury hotel reviews** using **LDA topic modeling** to uncov
 <img src="images/HRA.JPG?raw=true" width="600"/>
 
 ---
-[Quality of Life Analysis: Tri-State Visualization (Report PDF)](/pdf/Quality_of_Life_Analysis.pdf)  
+[🔗 Quality of Life Analysis: Tri-State Visualization (Report PDF)](/pdf/Quality_of_Life_Analysis.pdf)  
 **| Data Visualization | Tableau | Statistics | Socioeconomic Indicators | Public Data Analysis |**
 
 Developed an **interactive dashboard** comparing **education, income, housing, and healthcare** metrics across New York, New Jersey, and Connecticut to evaluate **regional quality of life** patterns.
@@ -86,7 +84,7 @@ Developed an **interactive dashboard** comparing **education, income, housing, a
 <img src="images/QOL.JPG?raw=true" width="600"/>
 
 ---
-[Multidimensional Analysis of Video Game Sales and Global Market Trends (Report PDF)](/pdf/Stats_Project_Final.pdf)  
+[🔗 Multidimensional Analysis of Video Game Sales and Global Market Trends (Report PDF)](/pdf/Stats_Project_Final.pdf)  
 **| Statistics | Regression Analysis | Market Analytics | Data Visualization | Exploratory Data Analysis |**
 
 Performed **multivariate statistical modeling** on global video game sales to uncover **genre, platform, and regional trends**, providing insight into **market dynamics and sales forecasting**.
