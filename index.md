@@ -46,6 +46,7 @@ Designed and implemented a **real-time multilingual translation system** that co
 - 🧭 [**Full Project Breakdown on Notion**](https://believed-chevre-225.notion.site/LLMOps-Project-197e7805c3c481aaa37cfc9388a6c2da?pvs=4)  
 
 
+<img src="images/llm.JPG?raw=true" width="600"/>
 
 <br>
 
