@@ -14,7 +14,7 @@ Each post became a reflection of growth — documenting not only *what I learned
 Today, the blog stands as a living record of my continuous evolution from student to **Machine Learning & MLOps Engineer** — grounded in curiosity, consistency, and craftsmanship.
 
 🔗 [**Visit My Blog →**](https://leahnote01.github.io/blog/)  
-📄 [**Download My 200 Days Challenge Summary (PDF)**](assets/Wonha_Shin_200_Days_Blog_Posting_Challenge.pdf)  
+📄 [**Download My 200 Days Challenge Summary (PDF)**](pdf/Wonha_Shin_200_Days_Blog_Posting_Challenge.pdf)  
 
 <img src="images/timestamp_2.JPG?raw=true" width="600"/>
 
