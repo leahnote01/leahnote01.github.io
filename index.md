@@ -105,7 +105,7 @@ Developed **ML/DL models** to predict COVID-19 trends in Ohio using **feature en
 
 ---
 ### Resume and Other Docs
-[🙌 Most Updated Resume Here](/pdf/ML_Resume_Wonha_Shin.pdf)
+[🙌 Most Updated Resume Here](pdf/Wonha_Shin_resume_final.pdf)
 
 
 <!-- - [Project 2 Title](http://example.com/) -->
